@@ -1,4 +1,4 @@
-# Online Store
+# SpringShop
 
 This web application is a online store built using the following technologies: Spring Boot, Thymeleaf, Spring Security, Spring Data JPA, Lombok, MySQL, and Hibernate. It allows for data import from a JSON file, provides management panels for both administrators and clients, and offers a full set of CRUD operations. Additionally, the database has been containerized using Docker, facilitating management and deployment across various environments.
 
